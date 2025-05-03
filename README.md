@@ -29,3 +29,7 @@ php artisan migrate --seed
 ```
 
 (Seeding will create a default admin user.)
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
